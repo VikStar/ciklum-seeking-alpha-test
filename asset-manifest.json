@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ciklum-seeking-alpha-test/static/css/main.f6822f54.chunk.css",
+    "main.js": "/ciklum-seeking-alpha-test/static/js/main.d0fc95ca.chunk.js",
+    "main.js.map": "/ciklum-seeking-alpha-test/static/js/main.d0fc95ca.chunk.js.map",
+    "runtime-main.js": "/ciklum-seeking-alpha-test/static/js/runtime-main.fb415d43.js",
+    "runtime-main.js.map": "/ciklum-seeking-alpha-test/static/js/runtime-main.fb415d43.js.map",
+    "static/js/2.fcb89a33.chunk.js": "/ciklum-seeking-alpha-test/static/js/2.fcb89a33.chunk.js",
+    "static/js/2.fcb89a33.chunk.js.map": "/ciklum-seeking-alpha-test/static/js/2.fcb89a33.chunk.js.map",
+    "static/js/3.58fc39b6.chunk.js": "/ciklum-seeking-alpha-test/static/js/3.58fc39b6.chunk.js",
+    "static/js/3.58fc39b6.chunk.js.map": "/ciklum-seeking-alpha-test/static/js/3.58fc39b6.chunk.js.map",
+    "index.html": "/ciklum-seeking-alpha-test/index.html",
+    "static/css/main.f6822f54.chunk.css.map": "/ciklum-seeking-alpha-test/static/css/main.f6822f54.chunk.css.map",
+    "static/js/2.fcb89a33.chunk.js.LICENSE.txt": "/ciklum-seeking-alpha-test/static/js/2.fcb89a33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb415d43.js",
+    "static/js/2.fcb89a33.chunk.js",
+    "static/css/main.f6822f54.chunk.css",
+    "static/js/main.d0fc95ca.chunk.js"
+  ]
+}
