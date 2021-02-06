@@ -5,8 +5,6 @@ import Message from './Message';
 
 const Grid = ({ size, coordinates, showMessage }) => {
     const rows = [];
-
-    Math.random()
     
     for (let y = 0; y < size; y++) {
         const liveCells = [];
