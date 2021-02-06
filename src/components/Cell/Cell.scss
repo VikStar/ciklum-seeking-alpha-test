@@ -1,0 +1,13 @@
+.Cell {
+    border: 2px solid grey;
+    height: 14px;
+    width: 14px;
+    
+    + .Cell {
+        margin-left: -2px;
+    }
+
+    &.is-live {
+        background-color: #000;
+    }
+}

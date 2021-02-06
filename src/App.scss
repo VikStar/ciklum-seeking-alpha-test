@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  justify-content: center;
+
+  .controls {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+
+    .Button + .Button {
+      margin-top: 20px;
+    }
+  }
+}

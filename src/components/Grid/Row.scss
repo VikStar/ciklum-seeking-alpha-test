@@ -1,0 +1,7 @@
+.Row {
+    display: flex;
+
+    +.Row {
+        margin-top: -2px;
+    }
+}
